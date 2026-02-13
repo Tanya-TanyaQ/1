@@ -13,6 +13,7 @@ btc 71112 - 8 02
 
 
 
+
          git remote add origin 
 git branch -M main  
 git push -u origin main 
