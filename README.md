@@ -7,7 +7,7 @@ btc 71112 - 8 02
 70500 0902
 
 
-
+18 февраля - 67100
 
 
          git remote add origin 
