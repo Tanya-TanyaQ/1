@@ -9,7 +9,6 @@ btc 71112 - 8 02
 
 18 февраля - 67100
 
-
          git remote add origin 
 git branch -M main  
 git push -u origin main 
